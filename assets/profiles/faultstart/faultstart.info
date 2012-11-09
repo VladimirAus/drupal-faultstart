@@ -1,0 +1,37 @@
+name = Faultstart
+description = Installation with specific modules.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = contextual
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = php
+dependencies[] = rdf
+
+dependencies[] = backup_migrate
+dependencies[] = admin
+dependencies[] = libraries
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = pathauto
+dependencies[] = token
+dependencies[] = override_node_options
+
+dependencies[] = rules
+
+dependencies[] = devel
+dependencies[] = features
+dependencies[] = entity
+dependencies[] = entity_token
+
+
