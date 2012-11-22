@@ -3,11 +3,15 @@ core = 7.x
 
 projects[fontyourface][subdir] = "contrib"
 projects[fontyourface][type] = "module"
-projects[fontyourface][version] = 2.5
+projects[fontyourface][version] = 2.6
 
-projects[admin][subdir] = "contrib"
-projects[admin][type] = "module"
-projects[admin][version] = 2.0-beta3
+;projects[admin][subdir] = "contrib"
+;projects[admin][type] = "module"
+;projects[admin][version] = 2.0-beta3
+
+projects[admin_menu][subdir] = "contrib"
+projects[admin_menu][type] = "module"
+projects[admin_menu][version] = 3.0-rc3
 
 projects[ctools][subdir] = "contrib"
 projects[ctools][type] = "module"
@@ -27,7 +31,7 @@ projects[features][version] = 1.0
 
 projects[entityreference][subdir] = "contrib"
 projects[entityreference][type] = "module"
-projects[entityreference][version] = 1.0-rc5
+projects[entityreference][version] = 1.0
 
 projects[media][subdir] = "contrib"
 projects[media][type] = "module"

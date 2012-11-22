@@ -12,14 +12,15 @@ dependencies[] = options
 dependencies[] = path
 dependencies[] = taxonomy
 dependencies[] = dblog
-dependencies[] = overlay
+;dependencies[] = overlay
 dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = php
 dependencies[] = rdf
 
 dependencies[] = backup_migrate
-dependencies[] = admin
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
 dependencies[] = libraries
 dependencies[] = views
 dependencies[] = views_ui
